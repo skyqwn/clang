@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sup_kimba/Documents/clang-prac/function/16_getFactorial/getFactorial'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _GetFactorial, symObjAddr: 0x0, symBinAddr: 0x100003DEC, symSize: 0xBC }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _GetFactorial, symObjAddr: 0x0, symBinAddr: 0x100003DEC, symSize: 0xBC }
+  - { offsetInCU: 0x85, offset: 0x85, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xBC, symBinAddr: 0x100003EA8, symSize: 0xAC }
+...

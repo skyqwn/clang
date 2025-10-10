@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sup_kimba/Documents/clang-prac/function/16_eventLoop/eventLoop'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _GetFee, symObjAddr: 0x0, symBinAddr: 0x100003DA0, symSize: 0x44 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _GetFee, symObjAddr: 0x0, symBinAddr: 0x100003DA0, symSize: 0x44 }
+  - { offsetInCU: 0x77, offset: 0x77, size: 0x8, addend: 0x0, symName: _PrintMenu, symObjAddr: 0x44, symBinAddr: 0x100003DE4, symSize: 0x4C }
+  - { offsetInCU: 0x9F, offset: 0x9F, size: 0x8, addend: 0x0, symName: _GetAge, symObjAddr: 0x90, symBinAddr: 0x100003E30, symSize: 0x4C }
+  - { offsetInCU: 0xC7, offset: 0xC7, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xDC, symBinAddr: 0x100003E7C, symSize: 0x98 }
+...
